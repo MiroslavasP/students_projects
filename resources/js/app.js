@@ -1,5 +1,3 @@
-require('./bootstrap');
-
 // Delete Comfirmation
 window.addEventListener('DOMContentLoaded', () => {
     const body = document.querySelector('body');
